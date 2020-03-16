@@ -1,0 +1,7 @@
+__pycache__/*
+bin/*
+build/*
+dist/*
+openpyxl/*
+PySide2/*
+lib*/*
