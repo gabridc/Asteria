@@ -1,7 +1,5 @@
 import sys
 
-sys.path.append('D:\Qt-Workspace\Asteria\openpyxl')
-sys.path.append('D:\Qt-Workspace\Asteria\PySide2')
 from PySide2.QtQml import *
 from PySide2.QtGui import QGuiApplication
 from PySide2.QtQuick import QQuickView
@@ -48,7 +46,6 @@ def main():
     engine = QQmlApplicationEngine()
 
     qmlRegisterType(MainWindowPy, 'MainWindowPy', 1, 0, 'MainWindowPy')
-    #qmlRegisterType(PropertiesWindowPy, 'PropertiesWindowPy', 1, 0, 'PropertiesWindowPy')
 
     mainWindow = MainWindowPy()
 
