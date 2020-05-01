@@ -1,5 +1,6 @@
 from openpyxl import Workbook, load_workbook
 
+
 class Compare:
 
     def __init__(self, fileBase, fileDst):
