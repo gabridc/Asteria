@@ -24,4 +24,4 @@ You can follow this guides to install:
 
 # Licensing
 
-Asteria is published under GNU GPLv3 licensind as you can see in COPYING.txt file.
+Asteria is published under GNU GPLv3 licensing as you can see in COPYING.txt file.
