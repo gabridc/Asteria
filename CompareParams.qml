@@ -314,6 +314,7 @@ ApplicationWindow {
 }
 
 
+
 /*##^##
 Designer {
     D{i:3;anchors_x:31}D{i:4;anchors_x:476}D{i:7;anchors_x:476}D{i:11;anchors_x:31}D{i:12;anchors_x:476}

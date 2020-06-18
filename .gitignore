@@ -5,3 +5,4 @@ dist/*
 openpyxl/*
 PySide2/*
 lib*/*
+venv/*

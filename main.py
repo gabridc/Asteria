@@ -1,5 +1,6 @@
 import sys
 
+
 from PySide2.QtQml import *
 from PySide2.QtGui import QGuiApplication
 from PySide2.QtQuick import QQuickView
